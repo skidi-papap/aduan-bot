@@ -10,15 +10,15 @@
         <form action="bot_form.php" method="POST">
             <div class="form-group">
             <label for="name">Nama :</label>    
-            <input type="text" name="nama" id="name">
+            <input type="text" class="form-control" name="nama" id="name">
             </div>
             <div class="form-group">
             <label for="email">Email :</label>    
-            <input type="text" name="uname" id="email">
+            <input type="text" class="form-control" name="uname" id="email">
             </div>
             <div class="form-group">
             <label for="aduan">Aduan :</label>
-            <input type="text" name="teks" id="aduan">
+            <input type="text" class="form-control" name="teks" id="aduan">
             </div>
             <input type="submit" class="btn btn-primary" value="Submit">
         </form>
