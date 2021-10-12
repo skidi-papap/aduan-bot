@@ -12,6 +12,7 @@
         <div class="form-right-decoration"></div>
         <div class="circle"></div>
         <div class="form-inner">
+            <h1>Aduan Siber</h1>
             <form action="bot_form.php" method="POST">    
                 <input type="text" class="form-control" name="nama" placeholder="Nama">
                 <input type="text" class="form-control" name="uname" placeholder="email">
