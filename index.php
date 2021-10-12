@@ -13,7 +13,7 @@
                 <input type="text" name="nama" placeholder="Nama">
                 <input type="text" name="uname" placeholder="Email">
                 <textarea rows="5" type="text" name="teks" placeholder="Aduan"></textarea>
-                <button type="submit" class="btn btn-primary" value="Submit"></button> 
+                <button type="submit">Submit</button> 
             </div>
         </form>
     </body>
