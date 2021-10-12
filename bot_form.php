@@ -9,5 +9,5 @@ $data = [
 
 $forward = file_get_contents("https://api.telegram.org/bot" . $token . "/sendMessage?" . http_build_query($data));
 echo "<script>alert('Aduan anda telah terkirim');</script>";
-header("Location: index.php");
+//header("Location: index.php");
 ?>
