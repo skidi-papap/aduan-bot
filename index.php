@@ -15,7 +15,7 @@
             <form action="bot_form.php" method="POST">    
                 <input type="text" class="form-control" name="nama" placeholder="Nama">
                 <input type="text" class="form-control" name="uname" placeholder="email">
-                <textarea rows="5" type="text" class="form-control" name="teks" placeholder="aduan">
+                <textarea rows="5" type="text" class="form-control" name="teks" placeholder="aduan"></textarea>
                 <input type="submit" class="btn btn-primary" value="Submit">
             </form>
         </div>
