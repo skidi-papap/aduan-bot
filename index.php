@@ -10,10 +10,10 @@
             <div class="circle"></div>
             <div class="form-inner">
                 <h1>Aduan Siber</h1>
-                <input type="text" class="form-control" name="nama" placeholder="Nama">
-                <input type="text" class="form-control" name="uname" placeholder="email">
-                <textarea rows="5" type="text" class="form-control" name="teks" placeholder="aduan"></textarea>
-                <input type="submit" class="btn btn-primary" value="Submit"> 
+                <input type="text" name="nama" placeholder="Nama">
+                <input type="text" name="uname" placeholder="Email">
+                <textarea rows="5" type="text" name="teks" placeholder="Aduan"></textarea>
+                <button type="submit" class="btn btn-primary" value="Submit"></button> 
             </div>
         </form>
     </body>
