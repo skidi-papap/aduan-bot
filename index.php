@@ -9,16 +9,16 @@
     <body>
         <form action="bot_form.php" method="POST">
             <div class="form-group">
-            <label>Nama :</label>    
-            <input type="text" name="nama">
+            <label for="name">Nama :</label>    
+            <input type="text" name="nama" id="name">
             </div>
             <div class="form-group">
-            <label>Email :</label>    
-            <input type="text" name="uname">
+            <label for="email">Email :</label>    
+            <input type="text" name="uname" id="email">
             </div>
             <div class="form-group">
-            <label>Teks :</label>
-            <input type="text" name="teks">
+            <label for="aduan">Aduan :</label>
+            <input type="text" name="teks" id="aduan">
             </div>
             <input type="submit" class="btn btn-primary" value="Submit">
         </form>
