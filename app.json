@@ -1,4 +1,9 @@
 {
   "name" : "Test Aduan Siber",
   "repository" : "https://github.com/skidi-papap/aduan-bot",
+  "buildpacks": [
+    {
+      "url": "https://github.com/skidi-papap/aduan-bot"
+    }
+  ],
 }
