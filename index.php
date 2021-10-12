@@ -7,20 +7,22 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 </head>
     <body>
-        <form action="bot_form.php" method="POST">
-            <div class="form-group">
-            <label for="name">Nama :</label>    
-            <input type="text" class="form-control" name="nama" id="name">
-            </div>
-            <div class="form-group">
-            <label for="email">Email :</label>    
-            <input type="text" class="form-control" name="uname" id="email">
-            </div>
-            <div class="form-group">
-            <label for="aduan">Aduan :</label>
-            <input type="text" class="form-control" name="teks" id="aduan">
-            </div>
-            <input type="submit" class="btn btn-primary" value="Submit">
-        </form>
+        <div class"col-lg-1">
+            <form action="bot_form.php" method="POST">
+                <div class="form-group">
+                <label for="name">Nama :</label>    
+                <input type="text" class="form-control" name="nama" id="name">
+                </div>
+                <div class="form-group">
+                <label for="email">Email :</label>    
+                <input type="text" class="form-control" name="uname" id="email">
+                </div>
+                <div class="form-group">
+                <label for="aduan">Aduan :</label>
+                <input type="text" class="form-control" name="teks" id="aduan">
+                </div>
+                <input type="submit" class="btn btn-primary" value="Submit">
+            </form>
+        </div>
     </body>
 </html>
