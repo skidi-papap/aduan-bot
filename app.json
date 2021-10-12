@@ -6,4 +6,5 @@
       "url": "heroku/php"
     }
   ],
+  "success_url" : "/index.html",
 }
