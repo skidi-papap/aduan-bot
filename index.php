@@ -25,19 +25,15 @@
           <div class="modal-dialog modal-dialog-centered" role="alert">
           <div class="modal-content">
           <div class="modal-header">
-          <h4 class="modal-title" id="popupConfirm">POPUP BOX</h4>
+            <h4 class="modal-title" id="popupConfirm">Bantuan 70</h4>
           </div>
           <div class="modal-body">
-          <p>Aduan anda telah diterima</p>
+            <p>Aduan anda telah diterima</p>
           <div class="modal-footer">
             <button type="button" class="btn btn-primary" data-dismiss="modal" aria-hidden="true">OK</button> 
-          </div>
-          
-          </div>
           </div>
           </div>
           </div>
         </div>
-      
     </body>
 </html>
